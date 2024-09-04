@@ -55,7 +55,7 @@
       <a href="https://github.com/tabbyworld">
         조예은
       </a>
-    </td>
+</tr>
 
 </table>
 </div>
